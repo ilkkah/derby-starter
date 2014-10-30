@@ -20,7 +20,7 @@
     "express": "~3",
     "coffee-script": "~1.7.1",
     "coffeeify": "~0.6.0",
-    "redis": "*",
+    "redis": "~0.10.x",
     "connect-redis": "*",
     "racer-highway": "*",
     "racer-bundle": "*",
